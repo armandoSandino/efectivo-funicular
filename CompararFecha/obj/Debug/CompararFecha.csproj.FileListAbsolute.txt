@@ -1,0 +1,6 @@
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\bin\Debug\CompararFecha.exe.config
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\bin\Debug\CompararFecha.exe
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\bin\Debug\CompararFecha.pdb
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\obj\Debug\CompararFecha.csprojResolveAssemblyReference.cache
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\obj\Debug\CompararFecha.exe
+C:\Users\Armando\Desktop\DEVELOPER\CompararFecha\CompararFecha\obj\Debug\CompararFecha.pdb
